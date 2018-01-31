@@ -3,6 +3,7 @@ This meteor app demonstrates that the practicalmeteor:mocha test runner runs cli
 Run this app with:
 
 ```sh
+$ meteor npm install
 $ meteor test --full-app --driver-package practicalmeteor:mocha
 ```
 
